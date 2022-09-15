@@ -6,6 +6,6 @@ Note: This One Paid Tools, So You Take First Approval For Using This Tools
 
 git clone https://github.com/silentkillermf/S8L3N5
 
-cd old King 
+cd silentkillermf
 
-python4 S8L3N5.py
+python4 silentkillermf.py
